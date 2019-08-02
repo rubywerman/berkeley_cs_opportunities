@@ -11,4 +11,4 @@ To add to this, send a pull request, or open an
 
 | Scholarship | Opens | Deadline | Description |
 | --- | --- | --- | --- | --- | --- |
-| [ANova](https://www.berkeleyanova.org/) | Fall | Fall | | 
+| [ANova](https://www.berkeleyanova.org/) | Fall | Fall | sifhsdfihos| 
