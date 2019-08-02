@@ -1,15 +1,11 @@
-# GHC-Scholarships
-
-Comprehensive list of student scholarships for the [Grace Hopper Celebration for
-Women in Computing](http://ghc.anitaborg.org/) held every Fall. This list aims
-to cover all relevant scholarships, even if they apply to specific sub-groups
-(LGBTQ+, specific country, etc) to enable as many students to attend GHC as
-possible!
+# Berkeley Computer Science Opportunities
+Comprehensive list of student scholarships, clubs, and events for the UC Berkeley students. This list aims
+to cover all relevant opportunities.
 
 ### Contributing
 
-To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues).
+To add to this, send a pull request, or open an
+[Issue](https://github.com/rubywerman/berkeley_cs_opportunities/issues).
 
 ## 2019 Scholarships
 
