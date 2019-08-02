@@ -9,6 +9,9 @@ To add to this, send a pull request, or open an
 
 ## Fall 2019 Clubs 
 
-| Scholarship | Opens | Deadline | Description |
-| --- | --- | --- | --- |
-| [ANova](https://www.berkeleyanova.org/) | Fall | Fall | sifhsdfihos| 
+| Name | Opens | Deadline | Description | Application type |
+| --- | --- | --- | --- | --- |
+| [ANova](https://www.berkeleyanova.org/) | Fall | Fall | placeholder | 
+| [Diversatech](http://diversatech.org/index.html) | Fall | Fall | placeholder| 
+| [INvent](https://inventabroad.berkeley.edu/previous-projects/) | February | ? | placeholder| 
+
