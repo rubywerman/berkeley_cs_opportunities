@@ -10,5 +10,5 @@ To add to this, send a pull request, or open an
 ## Fall 2019 Clubs 
 
 | Scholarship | Opens | Deadline | Description |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [ANova](https://www.berkeleyanova.org/) | Fall | Fall | sifhsdfihos| 
