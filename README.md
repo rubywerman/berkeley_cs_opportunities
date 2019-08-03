@@ -7,7 +7,7 @@ to cover all techy/relevant opportunities.
 To add to this, send a pull request, or open an
 [Issue](https://github.com/rubywerman/berkeley_cs_opportunities/issues).
 
-## Fall 2019 Clubs 
+## Clubs
 
 | Name | Description | Application type | Dates | 
 | --- | --- | --- | --- | 
