@@ -1,6 +1,6 @@
 # Berkeley Computer Science Opportunities
-List of student scholarships, clubs, and events for the UC Berkeley students. This list aims
-to cover all relevant opportunities.
+In progress list of student scholarships, clubs, and events for the UC Berkeley students. This list aims
+to cover all techy/relevant opportunities.
 
 ### Contributing
 
@@ -18,4 +18,6 @@ To add to this, send a pull request, or open an
 | [Code Base](https://codebase.berkeley.edu/) | Fall | Fall | Software development club | Infosession, application, coffee chats and group round, final interviews | 
 | [Machine Learning @ Berkeley](https://ml.berkeley.edu/) | Fall | Fall | All things ML– Industry consulting, projects, research, and decal | Infosession, application, interview, mixer, interview | 
 | [Launchpad](http://callaunchpad.org/#/) | Fall | Fall | Using artificial intelligence and machine learning to develop meaningful technology | Ingosession, application, coffee chat, technical interview | 
+| [Mobile Developers of Berkeley](https://mdb.dev/) | Fall | Fall | Rigorous new member bootcamp, internal projects, paid external projects, App Fair | Infosession, application, interview |
+| [Sports Analytics @ Berkeley](https://sportsanalytics.berkeley.edu/about-us.html) | Fall | Fall | Projects, data journalism, and business/consulting | Infosession, application, interview |
 | [INvent](https://inventabroad.berkeley.edu/volunteer/) | Open | February 15, 2020 | Implements STEM programs during a volunteer summer abroad experience | Send CV and cover letter to eduhmc@berkeley.edu |
