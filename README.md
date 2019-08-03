@@ -1,6 +1,6 @@
 # Berkeley Computer Science- Opportunities
 In progress list of student scholarships, clubs, and events for the UC Berkeley students. This list aims
-to cover all techy/relevant opportunities.
+to cover all techy/relevant opportunities, but in the process of making this I realized there is a TON so be sure to check out 
 
 ### Contributing
 
@@ -27,7 +27,7 @@ To add to this, send a pull request, or open an
 | [Blueprint](https://calblueprint.org/) | Tech for Social Good– develops apps for nonprofits | Infosession, application, social round/coffee chat/non-technical group activity/technical activity | ^ |
 | [Computer Science Mentors](https://csmberkeley.github.io/#/) | Small group tutoring for lower division computer science and electrical engineering courses | Application, teaching interview | ^ |
 | [Engineers Without Borders](https://ewb.berkeley.edu/) | Devloping sustainable engineering solutions to meet basic help and sanitation needs with hands-on experience abroad| Infosession, application, ? | ^ |
-| [Club Name](https://potato.io/) | Description | Application type | ^ |
+| [ASUC Office of the CTO](http://asucocto.org/about/) | Software development for the Berkeley community | Infosession, application, interview | ^ |
 | [Club Name](https://potato.io/) | Description | Application type | ^ |
 | [Club Name](https://potato.io/) | Description | Application type | ^ |
 | [INvent](https://inventabroad.berkeley.edu/volunteer/) | Implements STEM programs during a volunteer summer abroad experience | Send CV and cover letter to eduhmc@berkeley.edu | February 15, 2020 |
