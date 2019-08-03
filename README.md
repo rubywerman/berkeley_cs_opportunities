@@ -1,9 +1,9 @@
 # Berkeley Computer Science- Opportunities
 In progress list of student scholarships, clubs, and events for the UC Berkeley students. This list aims
 to cover all techy/relevant opportunities, but in the process of making this I realized there is a TON so be sure to check out:
-[ASUC](https://www.berkeley.edu/campus-life/student-organizations) \n
-[Beehive](http://beehive.berkeley.edu/jobs/search?page=2) \n
-[URAP](https://urapprojects.berkeley.edu/projects/list.php?category=open) \n
+[ASUC](https://www.berkeley.edu/campus-life/student-organizations) <br>
+[Beehive](http://beehive.berkeley.edu/jobs/search?page=2) <br>
+[URAP](https://urapprojects.berkeley.edu/projects/list.php?category=open) <br>
 ### Contributing
 
 To add to this, send a pull request, or open an
