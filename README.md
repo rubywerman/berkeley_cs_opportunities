@@ -16,7 +16,7 @@ To add to this, send a pull request, or open an
 | [Virtual Reality @ Berkeley](https://vr.berkeley.edu/about.html) | A variety of VR-related projects, teams, and outreach; runs a decal| Infosession, Interview, Mixer | ^ |
 | [Cal Hacks](https://calhacks.io/) | Puts on tech events at Cal, including the world's largest collegiate hackathon| Varies. TBD | ^ |
 | [Code Base](https://codebase.berkeley.edu/) | Software development club | Infosession, application, coffee chats and group round, final interviews | ^ |
-| [Computer Science Undergraduate Association] (https://www.csua.berkeley.edu/) | Hosts tech talks, hackathons, workshops, info sessions, etc; entry point to industry | Infosession, application, social round/coffee chat/non-technical group activity/technical activity|  | ^ |
+| [Computer Science Undergraduate Association](https://www.csua.berkeley.edu/) | Hosts tech talks, hackathons, workshops, info sessions, etc; entry point to industry | Sign up in 311 Soda / talk to an officer | ^ |
 | [Machine Learning @ Berkeley](https://ml.berkeley.edu/) | All things ML– Industry consulting, projects, research, and decal | Infosession, application, interview, mixer, interview | ^ |
 | [Launchpad](http://callaunchpad.org/#/) | Using artificial intelligence and machine learning to develop meaningful technology | Ingosession, application, coffee chat, technical interview | ^ |
 | [Pioneers in Engineering] (https://pioneers.berkeley.edu/about/) | Promote STEM education through mentorship | | ^ |
