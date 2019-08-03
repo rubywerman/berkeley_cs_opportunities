@@ -1,4 +1,4 @@
-# Berkeley Computer Science- Opportunities
+# Berkeley Computer Science Opportunities
 In progress list of student scholarships, clubs, and events for the UC Berkeley students. This list aims
 to cover all techy/relevant opportunities, but in the process of making this I realized there is a TON so be sure to check out:<br>
 [ASUC](https://www.berkeley.edu/campus-life/student-organizations) <br>
