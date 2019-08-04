@@ -14,9 +14,9 @@ To add to this, send a pull request, or open an
 
 ## Clubs
 
-| Name | Description | Application type | Dates | 
+| Name | Description | Application type | Facebook (for recruitment updates) |
 | --- | --- | --- | --- | 
-| [ANova](https://www.berkeleyanova.org/) | CS education and outreach for local under-resourced communities; develop cirriculum for middle and high school classrooms | Infosession, application, interview | check out website/facebook for deadlines |
+| [ANova](https://www.berkeleyanova.org/) | CS education and outreach for local under-resourced communities; develop cirriculum for middle and high school classrooms | Infosession, application, interview | https://www.facebook.com/BerkeleyANova/ |
 | [Diversatech](http://diversatech.org/index.html) | Tech consulting with a focus on interdisciplinary teams from a variety of majors and backgrounds | Infosession, application, 2 interviews | ^ | 
 | [Virtual Reality @ Berkeley](https://vr.berkeley.edu/about.html) | A variety of VR-related projects, teams, and outreach; runs a decal| Infosession, Interview, Mixer | ^ |
 | [Cal Hacks](https://calhacks.io/) | Puts on tech events at Cal, including the world's largest collegiate hackathon| Varies. TBD | ^ |
