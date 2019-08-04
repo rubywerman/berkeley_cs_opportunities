@@ -4,7 +4,7 @@ In progress list of student scholarships, clubs, and events for the UC Berkeley 
 In addition to the things listed here, be sure to check out:<br>
 [ASUC](https://www.berkeley.edu/campus-life/student-organizations): list of registered student organizations <br>
 [Beehive](http://beehive.berkeley.edu/jobs/search?page=2): summer, informal, short-term, or otherwise off-cycle projects research opportunities for students (paid/credit opportunities) <br>
-[URAP](https://urapprojects.berkeley.edu/projects/list.php?category=open): undergraduate research opportunities (credit). Application for Fall 2019 opens August, 21! <br>
+[URAP](https://urapprojects.berkeley.edu/projects/list.php?category=open): undergraduate research opportunities (credit). **Application for Fall 2019 opens August 21!** <br>
 [Handshake](https://berkeley.joinhandshake.com/): Job/Internship opportunities on and off campus, schedule of career fairs, resume/interview workhsops, and speakers
 
 ### Contributing
@@ -33,5 +33,4 @@ To add to this, send a pull request, or open an
 | [Computer Science Mentors](https://csmberkeley.github.io/#/) | Small group tutoring for lower division computer science and electrical engineering courses | Application, teaching interview | ^ |
 | [Engineers Without Borders](https://ewb.berkeley.edu/) | Devloping sustainable engineering solutions to meet basic help and sanitation needs with hands-on experience abroad| Infosession, application, ? | ^ |
 | [ASUC Office of the CTO](http://asucocto.org/about/) | Software development for the Berkeley community | Infosession, application, interview | ^ |
-| [Club Name](https://potato.io/) | Description | Application type | ^ |
 | [Club Name](https://potato.io/) | Description | Application type | ^ |
