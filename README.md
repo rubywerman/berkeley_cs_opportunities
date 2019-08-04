@@ -34,4 +34,3 @@ To add to this, send a pull request, or open an
 | [Computer Science Mentors](https://csmberkeley.github.io/#/) | Small group tutoring for lower division computer science and electrical engineering courses | Application, teaching interview | [Facebook](https://www.facebook.com/BerkeleyCSM/?__tn__=%2Cd%3C-R&eid=ARCGMtUKSBzt66ySBQb0_N5qE_tJzHmJE2m_RVbTOALFCopLKwsNxKgcBHJEEg0cNKe79oLABojo_RYR) |
 | [Engineers Without Borders](https://ewb.berkeley.edu/) | Devloping sustainable engineering solutions to meet basic help and sanitation needs with hands-on experience abroad| Infosession, application, ? | [Facebook](https://www.facebook.com/EWB.UCB/) |
 | [ASUC Office of the CTO](http://asucocto.org/about/) | Software development for the Berkeley community | Infosession, application, interview | [Facebook](https://www.facebook.com/asucocto/) |
-| [Club Name](https://potato.io/) | Description | Application type | [Facebook](https://potato.io/) |
