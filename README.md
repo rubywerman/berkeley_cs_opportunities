@@ -32,4 +32,3 @@ To add to this, send a pull request, or open an
 | [ASUC Office of the CTO](http://asucocto.org/about/) | Software development for the Berkeley community | Infosession, application, interview | ^ |
 | [Club Name](https://potato.io/) | Description | Application type | ^ |
 | [Club Name](https://potato.io/) | Description | Application type | ^ |
-| [INvent](https://inventabroad.berkeley.edu/volunteer/) | Implements STEM programs during a volunteer summer abroad experience | Send CV and cover letter to eduhmc@berkeley.edu | February 15, 2020 |
